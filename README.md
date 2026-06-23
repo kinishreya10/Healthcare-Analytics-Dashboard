@@ -1,4 +1,4 @@
-# Healthcare-Analytics-Dashboard
+# Healthcare-Analytics-Dashboard | PowerBI
 This project is an interactive Healthcare Analytics Dashboard built using Power BI to analyze hospital operations, patient demographics, doctor performance, appointments, treatments, and revenue generation.
 
 The dashboard provides business insights for healthcare management through KPI monitoring, trend analysis, patient analytics, and doctor performance evaluation.
