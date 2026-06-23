@@ -9,7 +9,7 @@ The dashboard provides business insights for healthcare management through KPI m
 * DAX (Data Analysis Expressions)
 * Data Modeling
 * CSV/Excel Dataset
-* Business Intelligence & Data Visualization
+* Data Visualization
 
 ## Data Model
 
@@ -29,34 +29,9 @@ The project follows a Star Schema architecture.
 
 ## Dashboard Pages
 
-### 1. Executive Summary
-
-* Total Patients
-* Total Doctors
-* Total Appointments
-* Revenue Overview
-* Appointment Status Analysis
-* Revenue by Payment Status
-* Treatment Type Distribution
-* Interactive Filters
-
-### 2. Patient Analytics
-
-* Average Age Analysis
-* Gender Distribution
-* Age Group Distribution
-* Insurance Provider Analysis
-* Registration Trend
-* Top Insurance Companies
-
-### 3. Doctor Performance
-
-* Doctor-wise Revenue
-* Branch Performance
-* Average Experience
-* Patients per Doctor
-* Specialization Analysis
-* Experience vs Revenue Scatter Analysis
+1. Executive Summary
+2. 2. Patient Analytics
+3. Doctor Performance
 
 ## Key KPIs
 
