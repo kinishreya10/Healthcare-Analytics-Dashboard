@@ -30,7 +30,7 @@ The project follows a Star Schema architecture.
 ## Dashboard Pages
 
 1. Executive Summary
-2. 2. Patient Analytics
+2. Patient Analytics
 3. Doctor Performance
 
 ## Key KPIs
