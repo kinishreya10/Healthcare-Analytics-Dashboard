@@ -1,7 +1,7 @@
 # Healthcare-Analytics-Dashboard | PowerBI
 This project is an interactive Healthcare Analytics Dashboard built using Power BI to analyze hospital operations, patient demographics, doctor performance, appointments, treatments, and revenue generation.
-
-The dashboard provides business insights for healthcare management through KPI monitoring, trend analysis, patient analytics, and doctor performance evaluation.
+For this project, I used a *Hospital Management dataset from Kaggle*. The dataset is synthetic and created 
+for educational purposes/, so no real patient information is used.
 
 ## Tools & Technologies
 
@@ -9,10 +9,8 @@ The dashboard provides business insights for healthcare management through KPI m
 * DAX (Data Analysis Expressions)
 * Data Modeling
 * CSV/Excel Dataset
-* Data Visualization
 
 ## Data Model
-
 The project follows a Star Schema architecture.
 
 ### Dimension Tables
@@ -47,7 +45,6 @@ The project follows a Star Schema architecture.
 
 * Interactive Slicers
 * Multi-page Dashboard Navigation
-* KPI Monitoring
 * Revenue Trend Analysis
 * Doctor Performance Tracking
 * Patient Demographic Analysis
@@ -60,8 +57,6 @@ The project follows a Star Schema architecture.
 * DAX Measures
 * Dashboard Design
 * Data Visualization
-* Business Intelligence
-* Analytical Reporting
 
 ## Outcome
 
