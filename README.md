@@ -58,7 +58,3 @@ The project follows a Star Schema architecture.
 * Dashboard Design
 * Data Visualization
 
-## Outcome
-
-The dashboard enables healthcare administrators to monitor operational performance, analyze patient and doctor data, identify trends, and support data-driven decision-making.
-
