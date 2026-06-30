@@ -1,7 +1,6 @@
 # Healthcare-Analytics-Dashboard | PowerBI
 This project is an interactive Healthcare Analytics Dashboard built using Power BI to analyze hospital operations, patient demographics, doctor performance, appointments, treatments, and revenue generation.
-For this project, I used a *Hospital Management dataset from Kaggle*. The dataset is synthetic and created 
-for educational purposes/, so no real patient information is used.
+For this project, I used a *Hospital Management dataset from Kaggle*. The dataset is synthetic and created for educational,project use.
 
 ## Tools & Technologies
 
@@ -49,6 +48,12 @@ The project follows a Star Schema architecture.
 * Doctor Performance Tracking
 * Patient Demographic Analysis
 * Healthcare Business Insights
+
+## Business Insights 
+
+* Pending revenue indicates unpaid bills
+* Central Hospital performs best
+* Doctor performance varies
 
 ## Skills Demonstrated
 
