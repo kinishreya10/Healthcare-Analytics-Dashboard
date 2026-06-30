@@ -49,12 +49,6 @@ The project follows a Star Schema architecture.
 * Patient Demographic Analysis
 * Healthcare Business Insights
 
-## Business Insights 
-
-* Pending revenue indicates unpaid bills
-* Central Hospital performs best
-* Doctor performance varies
-
 ## Skills Demonstrated
 
 * Power BI Development
@@ -62,4 +56,10 @@ The project follows a Star Schema architecture.
 * DAX Measures
 * Dashboard Design
 * Data Visualization
+
+## Business Insights 
+
+* Pending revenue indicates unpaid bills
+* Central Hospital performs best
+* Doctor performance varies
 
